@@ -19,7 +19,7 @@
 - ⚡ Experienced in **React.js, Django, Flask, Node.js, PostgreSQL**
 - 🔍 Passionate about backend engineering, cloud technologies, and AI-powered systems
 - 🏢 Working on enterprise-grade troubleshooting and management platforms
-- 📍 India
+- 📍 Bengaluru,India
 
 ---
 
