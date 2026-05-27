@@ -5,7 +5,7 @@
   <a href="https://github.com/masanisunil">
     <img src="https://img.shields.io/github/followers/masanisunil?label=Followers&style=social" />
   </a>
-  <a href="https://linkedin.com/in/masani-sunil-kumar">
+  <a href="https://www.linkedin.com/in/masani-sunil-kumar-84162426a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
 </p>
